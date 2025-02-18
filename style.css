@@ -10,3 +10,6 @@ margin: 0;
 body {
 padding 20 px;
 {
+.header {
+  text-align: center;
+}
