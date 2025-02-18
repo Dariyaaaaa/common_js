@@ -13,3 +13,12 @@ padding 20 px;
 .header {
   text-align: center;
 }
+  .card {
+    width: 100%;
+      border: 1 px solid black;
+    border-radius: 10 px;
+    padding: 20 px;
+    display: flex;
+    flex-direction: column;
+    gap: 15 px;
+}
