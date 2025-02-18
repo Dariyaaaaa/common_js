@@ -7,12 +7,15 @@ margin: 0;
   font-weight: 500;
   font-style: normal;
 }
+
 body {
 padding 20 px;
 {
+  
 .header {
   text-align: center;
 }
+  
   .card {
     width: 100%;
       border: 1 px solid black;
