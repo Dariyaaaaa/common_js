@@ -10,6 +10,9 @@ margin: 0;
 
 body {
 padding: 20px;
+  background: url('.background.jpg');
+  background-size : cover;
+  background-repeat: no-repeat;
 }
   
 .header {
